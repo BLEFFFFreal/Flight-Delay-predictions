@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment and editor files
+.env
+.venv/
+venv/
+.DS_Store
+
+# Generated Spark data and persisted ML models
+data/features/
+data/processed/
+data/predictions/
+data/models/
+data/analytics/
+
+# Hadoop/Spark runtime output
+*.crc
+spark-warehouse/
+
+# Local test artifacts
+tests/tmp_test_data/

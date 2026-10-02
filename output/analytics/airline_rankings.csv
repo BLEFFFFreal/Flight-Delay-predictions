@@ -1,0 +1,24 @@
+carrier,carrier_name,total_flights,total_delayed_flights,delay_rate,cancellation_rate
+F9,Frontier Airlines Inc.,1158943.0,291403.0,0.2514,0.019
+B6,JetBlue Airways,2609697.0,647919.0,0.2483,0.0228
+G4,Allegiant Air,613357.0,149943.0,0.2445,0.0396
+MQ,American Eagle Airlines Inc.,279283.0,61132.0,0.2189,0.054
+NK,Spirit Air Lines,1526076.0,330708.0,0.2167,0.0225
+VX,Virgin America,301908.0,64605.0,0.214,0.0105
+EV,ExpressJet Airlines Inc.,2637669.0,540578.0,0.2049,0.0325
+EV,ExpressJet Airlines LLC,149234.0,29672.0,0.1988,0.0549
+WN,Southwest Airlines Co.,12522217.0,2460563.0,0.1965,0.022
+AA,American Airlines Inc.,7973061.0,1538261.0,0.1929,0.021
+MQ,Envoy Air,2073685.0,394625.0,0.1903,0.0358
+UA,United Air Lines Inc.,5464237.0,1030741.0,0.1886,0.0159
+YV,Mesa Airlines Inc.,914298.0,170060.0,0.186,0.0332
+FL,AirTran Airways Corporation,143429.0,25226.0,0.1759,0.0126
+OH,PSA Airlines Inc.,1326337.0,231648.0,0.1747,0.0331
+US,US Airways Inc.,784157.0,134516.0,0.1715,0.0155
+OO,SkyWest Airlines Inc.,6905056.0,1167810.0,0.1691,0.0201
+AS,Alaska Airlines Inc.,1990957.0,317730.0,0.1596,0.013
+YX,Republic Airline,1717781.0,270036.0,0.1572,0.0322
+QX,Horizon Air,200419.0,28682.0,0.1431,0.018
+DL,Delta Air Lines Inc.,8661561.0,1198884.0,0.1384,0.0099
+9E,Endeavor Air Inc.,1466178.0,200559.0,0.1368,0.0216
+HA,Hawaiian Airlines Inc.,727265.0,89794.0,0.1235,0.0067

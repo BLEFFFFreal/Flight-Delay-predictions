@@ -1,0 +1,4 @@
+Model,Validation_RMSE,Validation_MAE,Validation_R2,Test_RMSE,Test_MAE,Test_R2
+Linear Regression,0.104,0.074,0.1508,0.1074,0.0778,0.1502
+Random Forest Regressor,0.1021,0.0714,0.1816,0.103,0.0739,0.2179
+GBT Regressor,0.1028,0.0725,0.1699,0.1032,0.0744,0.2147

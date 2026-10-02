@@ -1,0 +1,20 @@
+{
+  "Logistic Regression": {
+    "TP": 3091,
+    "TN": 3979,
+    "FP": 798,
+    "FN": 2696
+  },
+  "Random Forest Classifier": {
+    "TP": 3271,
+    "TN": 3992,
+    "FP": 785,
+    "FN": 2516
+  },
+  "GBT Classifier": {
+    "TP": 3772,
+    "TN": 3584,
+    "FP": 1193,
+    "FN": 2015
+  }
+}

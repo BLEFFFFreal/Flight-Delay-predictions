@@ -1,0 +1,4 @@
+Model,Validation_Accuracy,Validation_F1,Validation_ROC_AUC,Test_Accuracy,Test_Precision,Test_Recall,Test_F1,Test_ROC_AUC
+Logistic Regression,0.6797,0.6559,0.7406,0.6693,0.705,0.6693,0.6642,0.7508
+Random Forest Classifier,0.6636,0.6135,0.7536,0.6875,0.7192,0.6875,0.684,0.7764
+GBT Classifier,0.6873,0.6686,0.7639,0.6963,0.7056,0.6963,0.6967,0.7717

@@ -1,0 +1,8 @@
+carrier,carrier_name,airport,airport_name,predicted_delay_rate,predicted_high_delay
+AA,American Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",0.2394,1
+DL,Delta Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",0.1642,0
+UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",0.2187,1
+WN,Southwest Airlines Co.,DAL,"Dallas, TX: Dallas Love Field",0.0825,0
+B6,JetBlue Airways,JFK,"New York, NY: John F. Kennedy International",0.1478,0
+F9,Frontier Airlines Inc.,DEN,"Denver, CO: Denver International",0.1935,0
+AS,Alaska Airlines Inc.,SEA,"Seattle, WA: Seattle-Tacoma International",0.1126,0

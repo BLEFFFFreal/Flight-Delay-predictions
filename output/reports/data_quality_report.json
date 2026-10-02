@@ -1,0 +1,30 @@
+{
+  "input_records": 171666,
+  "duplicate_records_removed": 0,
+  "critical_null_rows_dropped": 0,
+  "invalid_records_removed": 0,
+  "clean_records": 171666,
+  "missing_analysis": {
+    "year": 0,
+    "month": 0,
+    "carrier": 0,
+    "carrier_name": 0,
+    "airport": 0,
+    "airport_name": 0,
+    "arr_flights": 240,
+    "arr_del15": 443,
+    "carrier_ct": 240,
+    "weather_ct": 240,
+    "nas_ct": 240,
+    "security_ct": 240,
+    "late_aircraft_ct": 240,
+    "arr_cancelled": 240,
+    "arr_diverted": 240,
+    "arr_delay": 240,
+    "carrier_delay": 240,
+    "weather_delay": 240,
+    "nas_delay": 240,
+    "security_delay": 240,
+    "late_aircraft_delay": 240
+  }
+}
